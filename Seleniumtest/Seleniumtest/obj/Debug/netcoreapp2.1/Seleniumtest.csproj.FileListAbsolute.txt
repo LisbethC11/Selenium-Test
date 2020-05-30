@@ -1,0 +1,11 @@
+C:\Users\Lisbeth Corporan\source\repos\Seleniumtest\Seleniumtest\bin\Debug\netcoreapp2.1\Seleniumtest.deps.json
+C:\Users\Lisbeth Corporan\source\repos\Seleniumtest\Seleniumtest\bin\Debug\netcoreapp2.1\Seleniumtest.runtimeconfig.json
+C:\Users\Lisbeth Corporan\source\repos\Seleniumtest\Seleniumtest\bin\Debug\netcoreapp2.1\Seleniumtest.runtimeconfig.dev.json
+C:\Users\Lisbeth Corporan\source\repos\Seleniumtest\Seleniumtest\bin\Debug\netcoreapp2.1\Seleniumtest.dll
+C:\Users\Lisbeth Corporan\source\repos\Seleniumtest\Seleniumtest\obj\Debug\netcoreapp2.1\Seleniumtest.csprojAssemblyReference.cache
+C:\Users\Lisbeth Corporan\source\repos\Seleniumtest\Seleniumtest\obj\Debug\netcoreapp2.1\Seleniumtest.csproj.CoreCompileInputs.cache
+C:\Users\Lisbeth Corporan\source\repos\Seleniumtest\Seleniumtest\obj\Debug\netcoreapp2.1\Seleniumtest.AssemblyInfoInputs.cache
+C:\Users\Lisbeth Corporan\source\repos\Seleniumtest\Seleniumtest\obj\Debug\netcoreapp2.1\Seleniumtest.AssemblyInfo.cs
+C:\Users\Lisbeth Corporan\source\repos\Seleniumtest\Seleniumtest\bin\Debug\netcoreapp2.1\Seleniumtest.pdb
+C:\Users\Lisbeth Corporan\source\repos\Seleniumtest\Seleniumtest\obj\Debug\netcoreapp2.1\Seleniumtest.dll
+C:\Users\Lisbeth Corporan\source\repos\Seleniumtest\Seleniumtest\obj\Debug\netcoreapp2.1\Seleniumtest.pdb
